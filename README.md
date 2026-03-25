@@ -11,7 +11,7 @@ A generic MCP server for efficient code navigation across any repository (Linux 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/code-nav-mcp.git
+git clone https://github.com/Balki01/code-nav-mcp.git
 cd code-nav-mcp
 
 # 2. Run installer
@@ -249,9 +249,9 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 🐛 Issues & Support
 
-- [Report bugs](https://github.com/YOUR_USERNAME/code-nav-mcp/issues)
-- [Request features](https://github.com/YOUR_USERNAME/code-nav-mcp/issues)
-- [Ask questions](https://github.com/YOUR_USERNAME/code-nav-mcp/discussions)
+- [Report bugs](https://github.com/Balki01/code-nav-mcp/issues)
+- [Request features](https://github.com/Balki01/code-nav-mcp/issues)
+- [Ask questions](https://github.com/Balki01/code-nav-mcp/discussions)
 
 ## 📜 License
 
